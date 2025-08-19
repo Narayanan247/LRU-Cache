@@ -1,6 +1,6 @@
 # 🗂️ LRU Cache in Java
 
-An implementation of **LRU (Least Recently Used) Cache** in Java, designed for **SDE interview preparation** and learning.  
+An implementation of **LRU (Least Recently Used) Cache** in Java, built for understanding caching mechanisms and real-world applications.
 The cache supports `get`, `put`, `resize`, and eviction logging with **O(1) operations** using **HashMap + Doubly Linked List**.
 
 ---
